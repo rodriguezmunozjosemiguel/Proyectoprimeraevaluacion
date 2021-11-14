@@ -1,5 +1,5 @@
 
-#Proyecto de final del trimestre
+**Proyecto de final del trimestre**
 
 
 ***Datos***
@@ -12,7 +12,7 @@
 
 **Fecha:13/11/21**
 
-**Explicación del proyecto:**
+#Explicación del proyecto:
 
 
 Este proyecto tratará sobre una base de datos de datos de objetos gravitacionales redondeados del sistema solar.
